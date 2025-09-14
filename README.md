@@ -24,12 +24,9 @@ Acumular dinero y comprar todas las mejoras para ganar.
 
 ## Sitio en vivo
 
-Puedes ver el juego directamente accediendo a la pantalla de inicio desde aquí: https://webportfolio-paulallago.netlify.app/kitty_caf%C3%A9/
+Puedes ver el juego directamente accediendo a la pantalla de inicio desde aquí: https://thekittycafe.netlify.app/
 
 ## Cómo ejecutar
 
-Clonar el repositorio donde se encuentra el juego, acceder a la subcarpeta Kitty_Café y abrir el `index.html` en cualquier navegador moderno. Solo se puede jugar en ordenador.
-
    ```bash
-   git clone https://github.com/paula8creatidev/web_portfolio_creativo.git
-   cd web_portfolio_creativo/Portfolio\ Creativo/Kitty_Café
+   git clone https://github.com/paula8creatidev/kitty_cafe.git
