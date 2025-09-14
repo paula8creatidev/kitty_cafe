@@ -28,5 +28,7 @@ Puedes ver el juego directamente accediendo a la pantalla de inicio desde aquí:
 
 ## Cómo ejecutar
 
+Para probar el sitio de manera local puedes clonar el repositorio de la siguiente manera:
+
    ```bash
    git clone https://github.com/paula8creatidev/kitty_cafe.git
